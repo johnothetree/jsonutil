@@ -13,6 +13,8 @@ Puts all necessary files for deployment into the `build` folder.
 3) Restart tomcat server
 4) Page can be hit at localhost:8080/jsonutil
 
+for more details on getting the tomcat deployment working, see: https://github.com/facebook/create-react-app/issues/4826
+
 ### `Changing url`
 
 For domain url, change the `homepage` field in the `package.json` file.
